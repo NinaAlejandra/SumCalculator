@@ -1,0 +1,14 @@
+/Users/Nina/Projects/SumCalculator/bin/Debug/net7.0/SumCalculator
+/Users/Nina/Projects/SumCalculator/bin/Debug/net7.0/SumCalculator.deps.json
+/Users/Nina/Projects/SumCalculator/bin/Debug/net7.0/SumCalculator.runtimeconfig.json
+/Users/Nina/Projects/SumCalculator/bin/Debug/net7.0/SumCalculator.dll
+/Users/Nina/Projects/SumCalculator/bin/Debug/net7.0/SumCalculator.pdb
+/Users/Nina/Projects/SumCalculator/obj/Debug/net7.0/SumCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Nina/Projects/SumCalculator/obj/Debug/net7.0/SumCalculator.AssemblyInfoInputs.cache
+/Users/Nina/Projects/SumCalculator/obj/Debug/net7.0/SumCalculator.AssemblyInfo.cs
+/Users/Nina/Projects/SumCalculator/obj/Debug/net7.0/SumCalculator.csproj.CoreCompileInputs.cache
+/Users/Nina/Projects/SumCalculator/obj/Debug/net7.0/SumCalculator.dll
+/Users/Nina/Projects/SumCalculator/obj/Debug/net7.0/refint/SumCalculator.dll
+/Users/Nina/Projects/SumCalculator/obj/Debug/net7.0/SumCalculator.pdb
+/Users/Nina/Projects/SumCalculator/obj/Debug/net7.0/SumCalculator.genruntimeconfig.cache
+/Users/Nina/Projects/SumCalculator/obj/Debug/net7.0/ref/SumCalculator.dll
